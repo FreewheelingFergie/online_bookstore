@@ -1,0 +1,19 @@
+h1 {
+    position: center;
+    padding: 20px;
+    color: rgb(91, 73, 233);
+    font-family: sans-serif;
+}
+/*Increase size of thumbnails x2 with mouse hover*/
+.img-thumbnail:hover {
+    transform: scale(2);
+}
+.btn {
+margin: 40px;
+padding: 9px 3px;
+width: 209.8px;
+}
+
+body {
+    background-color: bisque;
+}
